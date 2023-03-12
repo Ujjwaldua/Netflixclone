@@ -1,0 +1,235 @@
+{
+  "users": [
+    {
+      "movieName": "Pathaan",
+      "video": "https://www.youtube.com/watch?v=vqu4z34wENw",
+      "photoLink": "https://upload.wikimedia.org/wikipedia/en/c/c3/Pathaan_film_poster.jpg",
+      "bigLink": "https://images.mid-day.com/images/images/2023/jan/Pathan-Movies12_d.jpg",
+      "category": "Action",
+      "rating": "8.5",
+      "releaseDate": "2023-01-25",
+      "description": "Pathaan full movie",
+      "id": 2
+    },
+    {
+      "movieName": "Toofan",
+      "video": "https://www.youtube.com/watch?v=o6-Dlesu16c",
+      "photoLink": "https://upload.wikimedia.org/wikipedia/en/f/f6/Toofan_%281989%29.jpg",
+      "bigLink": "https://m.media-amazon.com/images/M/MV5BODU2OGQ0ZTktODM1ZS00M2U2LTk5YzgtYTcwNWUzZDYxNTE4XkEyXkFqcGdeQXVyMTE0NjEzNjI5._V1_.jpg",
+      "category": "Action",
+      "rating": "9",
+      "releaseDate": "1998-03-06",
+      "description": "Toofan full movie",
+      "id": 3
+    },
+    {
+      "movieName": "Conjuring",
+      "video": "https://www.youtube.com/watch?v=k10ETZ41q5o",
+      "photoLink": "https://m.media-amazon.com/images/M/MV5BMTM3NjA1NDMyMV5BMl5BanBnXkFtZTcwMDQzNDMzOQ@@._V1_.jpg",
+      "bigLink": "https://i0.wp.com/highschool.latimes.com/wp-content/uploads/2018/01/the-conjuring-hd-wallpaper.jpg?fit=2548%2C1566&ssl=1",
+      "category": "Horror",
+      "rating": "8.9",
+      "releaseDate": "2017-03-25",
+      "description": "Conjuring full movie",
+      "id": 4
+    },
+    {
+      "movieName": "Hera Pheri",
+      "video": "https://www.youtube.com/watch?v=TIQ5hrfermg",
+      "photoLink": "https://m.media-amazon.com/images/M/MV5BNDExMTBlZTYtZWMzYi00NmEwLWEzZGYtOTA1MDhmNTc0ODZkXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+      "bigLink": "https://i.ytimg.com/vi/TIQ5hrfermg/maxresdefault.jpg",
+      "category": "Comedy",
+      "rating": "6.9",
+      "releaseDate": "2014-06-20",
+      "description": "Hera Pheri Full Movie",
+      "id": 6
+    },
+    {
+      "movieName": "Jack the Giant Slayer",
+      "video": "https://www.youtube.com/watch?v=ng9rjC8MOgU",
+      "photoLink": "https://images.moviesanywhere.com/76c0e7712ced2074c3cd3a892ad1ecf2/1c435afa-c3c7-4c8a-aebb-33b9226ce86b.jpg",
+      "bigLink": "https://material.asset.catchplay.com/WAR-IN-001-A0105/artworks/posters/WAR-IN-001-A0105-P704.jpg?hash=1656562637",
+      "category": "Action",
+      "rating": "6.8",
+      "releaseDate": "2015-07-18",
+      "description": "Jack the Giant Slayer Full Movie",
+      "id": 7
+    },
+    {
+      "movieName": "Horror Story",
+      "video": "https://www.youtube.com/watch?v=fmpjqtITiWU",
+      "photoLink": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/Horror-Story-movie-poster-2013.jpg/220px-Horror-Story-movie-poster-2013.jpg",
+      "bigLink": "https://s1.dmcdn.net/v/LSQ7-1Q5IZThiuwld/x1080",
+      "category": "Horror",
+      "rating": "5.8",
+      "releaseDate": "2017-06-03",
+      "description": "Horror Story Full Movie",
+      "id": 8
+    },
+    {
+      "movieName": "The Boy",
+      "video": "https://www.youtube.com/watch?v=XGbB9UQ6r1g",
+      "photoLink": "https://images.moviesanywhere.com/c3d92cf4e084ea2a46a1d4b24f06d8e1/ede5fa03-1283-4ebe-98c8-486a30ae2bac.jpg",
+      "bigLink": "https://pic-bstarstatic.akamaized.net/ugc/f1f15acde2009c085ece3e0085ec4b8f6363724c.png@720w_405h_1e_1c_1f.webp",
+      "category": "Horror",
+      "rating": "7.8",
+      "releaseDate": "2018-07-19",
+      "description": "The Boy full movie",
+      "id": 9
+    },
+    {
+      "movieName": "Fantastic Four",
+      "video": "https://www.youtube.com/watch?v=xI3qSnmAIFM",
+      "photoLink": "https://m.media-amazon.com/images/M/MV5BNWU1ZjFjMTctYjA5ZC00YTBkLTkzZjUtZWEyMjgxY2MxYWM4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
+      "bigLink": "https://cdn.britannica.com/38/182838-050-F71E4278/image-Fantastic-Four.jpg",
+      "category": "Action",
+      "rating": "9.5",
+      "releaseDate": "2017-11-16",
+      "description": "Fantastic Four Full Movie",
+      "id": 10
+    },
+    {
+      "movieName": "Fifty Shades of Grey",
+      "video": "https://www.youtube.com/watch?v=SfZWFDs0LxA",
+      "photoLink": "https://upload.wikimedia.org/wikipedia/en/7/73/Fifty_Shades_of_Grey_poster.jpg",
+      "bigLink": "https://www.koimoi.com/wp-content/new-galleries/2020/08/Fifty-shades-trilogy-001.jpg",
+      "category": "Action",
+      "rating": "9.7",
+      "releaseDate": "2020-01-27",
+      "description": "Fifty Shades Full Movies",
+      "id": 11
+    },
+    {
+      "movieName": "Table No. 21",
+      "video": "https://www.youtube.com/watch?v=IfpdJ-Bx5qk",
+      "photoLink": "https://upload.wikimedia.org/wikipedia/en/2/27/Table_No_21_official_poster.jpg",
+      "bigLink": "https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_webp,q_auto:eco/resources/0-0-272038/list/1170x658withlog1314791817.jpg",
+      "category": "Action",
+      "rating": "7.8",
+      "releaseDate": "2016-03-03",
+      "description": "Table No.21 Full Movie",
+      "id": 12
+    },
+    {
+      "movieName": "The Witcher",
+      "video": "https://www.youtube.com/watch?v=ndl1W4ltcmg",
+      "photoLink": "https://m.media-amazon.com/images/M/MV5BN2FiOWU4YzYtMzZiOS00MzcyLTlkOGEtOTgwZmEwMzAxMzA3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+      "bigLink": "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABVWS9pqT4D1VP8vlUp4tpjXcO0T2xb7QHYJAZgmwalMcwqgHKJNUEZdbgwOrydpkKgTrgA-hRPGQh5XYsNydSOMvYCsV1Vnm808M.jpg?r=93a",
+      "category": "Action",
+      "rating": "9.5",
+      "releaseDate": "2019-10-24",
+      "description": "The Witcher Full Movie",
+      "id": 13
+    },
+    {
+      "movieName": "Khatta Meetha",
+      "video": "https://www.youtube.com/watch?v=My5L3qLhewg",
+      "photoLink": "https://m.media-amazon.com/images/M/MV5BMTY2ODUzMDY3OV5BMl5BanBnXkFtZTcwMzg3NDE3Mw@@._V1_.jpg",
+      "bigLink": "https://i.ytimg.com/vi/My5L3qLhewg/maxresdefault.jpg",
+      "category": "Comedy",
+      "rating": "6.7",
+      "releaseDate": "2020-11-04",
+      "description": "Khatta Meetha Full Movie",
+      "id": 14
+    },
+    {
+      "movieName": "Annabelle Comes Home",
+      "video": "https://www.youtube.com/watch?v=KisPhy7T__Q",
+      "photoLink": "https://images.moviesanywhere.com/412278051451bd29427d51bcb3fc468e/4311f1f7-9863-4be4-a45b-921adcf4dbac.jpg",
+      "bigLink": "https://www.annabellemovie.com/images/share.jpg",
+      "category": "Horror",
+      "rating": "7.9",
+      "releaseDate": "2019-07-26",
+      "description": "Annabelle Comes Home Full Movie",
+      "id": 15
+    },
+    {
+      "movieName": "Exorcist",
+      "video": "https://www.youtube.com/watch?v=0iS59iV2Ffs",
+      "photoLink": "https://m.media-amazon.com/images/M/MV5BNzRhYjg3MWItYTA1Zi00ODI4LWI5MzEtM2ZkYWQxNGJjZGVmXkEyXkFqcGdeQXVyMTI4NTQ0MDQ@._V1_.jpg",
+      "bigLink": "https://moviesandmania.com/wp-content/uploads/2020/09/The-Last-Exorcist-movie-film-horror-2020-poster-detail-Danny-Trejo.png",
+      "category": "Horror",
+      "rating": "8.2",
+      "releaseDate": "2023-03-17",
+      "description": "Exorcist Full Movie",
+      "id": 16
+    },
+    {
+      "movieName": "The Evil Dead",
+      "video": "https://www.youtube.com/watch?v=vTGHA33Xyh4",
+      "photoLink": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6882/6882612_so.jpg",
+      "bigLink": "https://scribemag.com/wp-content/uploads/2022/06/The-Evil-Dead-1981-film-poster.jpg",
+      "category": "Horror",
+      "rating": "6.9",
+      "releaseDate": "2023-03-06",
+      "description": "The Evil Dead Full Movie",
+      "id": 17
+    },
+    {
+      "movieName": "The Prodigy",
+      "video": "https://www.youtube.com/watch?v=BC4cyYRxjFk",
+      "photoLink": "https://images.saymedia-content.com/.image/t_share/MTc2NDU5NDM2NTM2NDQwMDIx/good-horror-movies-to-watch.jpg",
+      "bigLink": "https://theseriesregulars.com/wp-content/uploads/2019/02/The-Prodigy.jpg",
+      "category": "Horror",
+      "rating": "4.8",
+      "releaseDate": "2023-02-17",
+      "description": "The Prodigy Full Movie",
+      "id": 18
+    },
+    {
+      "movieName": "Good Newwz",
+      "video": "https://www.youtube.com/watch?v=r9VJpqoAr84",
+      "photoLink": "https://m.media-amazon.com/images/M/MV5BNWQzNGQxY2YtNWZjOC00MGU4LTgzNTUtODliOGQzYTkxYzM1XkEyXkFqcGdeQXVyMTA5NzIyMDY5._V1_.jpg",
+      "bigLink": "https://images.indianexpress.com/2019/12/good-newws-review-759.jpg",
+      "category": "Comedy",
+      "rating": "8.6",
+      "releaseDate": "2021-06-24",
+      "description": "Good Newwz Full Movie",
+      "id": 19
+    },
+    {
+      "movieName": "Badhaai Ho",
+      "video": "https://www.youtube.com/watch?v=unAljCZMQYw",
+      "photoLink": "https://img1.hotstarext.com/image/upload/f_auto,t_vl/sources/r1/cms/prod/7309/177309-v",
+      "bigLink": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7302/177302-h",
+      "category": "Comedy",
+      "rating": "8.5",
+      "releaseDate": "2020-01-16",
+      "description": "Badhaai Ho Full Movie",
+      "id": 20
+    },
+    {
+      "movieName": "Welcome",
+      "video": "https://www.youtube.com/watch?v=AKiynoClCaA",
+      "photoLink": "https://upload.wikimedia.org/wikipedia/en/f/f4/Welcome_poster_2007.jpg",
+      "bigLink": "https://i.ytimg.com/vi/AKiynoClCaA/maxresdefault.jpg",
+      "category": "Comedy",
+      "rating": "8.7",
+      "releaseDate": "",
+      "description": "Welcome Full Movie",
+      "id": 21
+    },
+    {
+      "movieName": "Fukrey Returns",
+      "video": "https://www.youtube.com/watch?v=f-UzOpuKOVY",
+      "photoLink": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/1b6d806c1e104a4238b730793a7b28e451fc0edcdc5709fded3a62357f96b413._RI_V_TTW_.jpg",
+      "bigLink": "https://imageio.forbes.com/blogs-images/robcain/files/2017/12/Fukrey-Returns.jpg?format=jpg&width=960",
+      "category": "Comedy",
+      "rating": "7.9",
+      "releaseDate": "2017-07-13",
+      "description": "Fukrey Returns Full Movie",
+      "id": 22
+    },
+    {
+      "movieName": "Golmaal Fun Unlimited",
+      "video": "https://www.youtube.com/watch?v=ZmE6TN9bYQg",
+      "photoLink": "https://m.media-amazon.com/images/I/81pA12mA0cL._SL1280_.jpg",
+      "bigLink": "https://i.ytimg.com/vi/zJ1DC0ctC3k/maxresdefault.jpg",
+      "category": "Comedy",
+      "rating": "7.4",
+      "releaseDate": "2019-10-05",
+      "description": "Golmaal Fun Unlimited Full Movie",
+      "id": 23
+    }
+  ]
+}
